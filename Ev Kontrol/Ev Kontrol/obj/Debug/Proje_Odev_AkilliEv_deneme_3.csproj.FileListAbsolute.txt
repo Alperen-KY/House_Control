@@ -1,0 +1,12 @@
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\bin\Debug\Proje_Odev_AkilliEv_deneme_3.exe.config
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\bin\Debug\Proje_Odev_AkilliEv_deneme_3.exe
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\bin\Debug\Proje_Odev_AkilliEv_deneme_3.pdb
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.csprojAssemblyReference.cache
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.Form1.resources
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.Properties.Resources.resources
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.csproj.GenerateResource.cache
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.csproj.CoreCompileInputs.cache
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.exe
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.pdb
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.Form2.resources
+C:\Users\KAYA\source\repos\Proje_Odev_AkilliEv_deneme_3\Proje_Odev_AkilliEv_deneme_3\obj\Debug\Proje_Odev_AkilliEv_deneme_3.Form3.resources
